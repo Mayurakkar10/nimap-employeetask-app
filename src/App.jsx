@@ -4,7 +4,6 @@ import EmployeeManagementSystem from "./Components/EmployeeManagementSystem";
 export default function App() {
   return (
     <div>
-      {/* <Employee /> */}
       <EmployeeManagementSystem />
     </div>
   );
